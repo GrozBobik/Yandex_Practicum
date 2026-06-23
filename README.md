@@ -4,7 +4,7 @@
 
 ## Ссылка на проект
 
-https://username.github.io/mesto-production/
+https://grozbobik.github.io/Yandex_Practicum/
 
 ## Команды
 
