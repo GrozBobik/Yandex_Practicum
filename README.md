@@ -4,6 +4,8 @@
 
 ## Ссылка на проект
 
+https://github.com/GrozBobik/Yandex_Practicum
+
 https://grozbobik.github.io/Yandex_Practicum/
 
 ## Команды
